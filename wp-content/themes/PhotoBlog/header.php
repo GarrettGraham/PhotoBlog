@@ -8,4 +8,4 @@
     <div id="header">
       <h1>Travel Photos</h1>
     </div>
-  </div>
+  
